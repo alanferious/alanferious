@@ -9,7 +9,7 @@ I build web apps with **TypeScript and Next.js**, and I like turning messy syste
 | Project | What it is | Built with |
 |---|---|---|
 | [**CloudWatch Alarm Dashboard**](https://github.com/alanferious/cloudwatch-website) | One color-coded dashboard for CloudWatch alarms across multiple AWS accounts, with an admin page to hide the noise | Next.js · TypeScript · PostgreSQL · AWS SDK |
-| [**Real-time Chatroom**](https://github.com/alanferious/test_project) | Chat app with logins, hashed passwords, token-based sessions, and an admin panel | Next.js · SQLite · Framer Motion |
+| [**Real-time Chatroom**](https://github.com/alanferious/nextjs-chatroom) | Chat app with logins, hashed passwords, token-based sessions, and an admin panel | Next.js · SQLite · Framer Motion |
 | [**Magic: The Gathering**](https://github.com/alanferious/MTG) | A Magic-style card game in Java, with lands, creatures, spells, and mana | Java · Gradle |
 | [**LeetCode Problems**](https://github.com/alanferious/LeetcodeProblems) | My solutions to LeetCode problems | Java |
 
