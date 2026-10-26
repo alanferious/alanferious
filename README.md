@@ -4,7 +4,7 @@
 
 I build web apps with **TypeScript and Next.js**, and I like turning messy systems into dashboards people can read at a glance. I have a computer science background and also write Java and Python. I care about good documentation as much as working code.
 
-### 🔭 Featured projects
+###  Featured projects
 
 | Project | What it is | Built with |
 |---|---|---|
@@ -13,7 +13,7 @@ I build web apps with **TypeScript and Next.js**, and I like turning messy syste
 | [**Magic: The Gathering**](https://github.com/alanferious/MTG) | A Magic-style card game in Java, with lands, creatures, spells, and mana | Java · Gradle |
 | [**LeetCode Problems**](https://github.com/alanferious/LeetcodeProblems) | My solutions to LeetCode problems | Java |
 
-### 🛠️ Tech I use
+###  Tech I use
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,10 +27,10 @@ I build web apps with **TypeScript and Next.js**, and I like turning messy syste
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### ⚡ Right now
+###  Right now
 
-- 🧩 Building more full-stack projects with Next.js
-- 📝 Writing clear READMEs and technical docs for code projects
+-  Building more full-stack projects with Next.js
+-  Writing clear READMEs and technical docs for code projects
 <!-- Add your Fiverr gig link here once you launch:
 - 💼 Available for freelance documentation work: [Fiverr](https://www.fiverr.com/YOUR-USERNAME)
 -->
